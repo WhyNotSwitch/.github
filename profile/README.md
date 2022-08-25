@@ -21,17 +21,28 @@
 <details>
 <summary>More</summary>
 
-
-
+<br />
+<br />
 
 ## Metering
 
-![Meter](https://github.com/WhyNotSwitch/Switch-Website-3.0/blob/master/img/Switch-meters/IMG_3002.jpg?raw=true) 
 We develop smart metering technologies for solar power projects and believe that smart metering can play a pivotal role in Africa's electric future.
-- `Remote Asset Administration` `Theft Detection` `Reporting` 
-- `Performance Benchmark` `Diagnostic` `Predictive Maintenance`
-- `Anomaly Detection` `Energy Loss Detection` `Smart Alerts`
+Our meters collect and aggregate over 3,600 data points per minute, Switch's Smart Meter which means they are able to detect anomalies, system failures,
+and power theft more efficiently than any other meter on the market. They can provide detailed data about the energy usage in your customer's
+homes. This information would allow you to better tailor your power plans based on actual usage patterns
+![Meter](https://github.com/WhyNotSwitch/Gallery/blob/main/maxwell-1.0/IMG_3001-removebg-preview.png?raw=true)
 - `100A maximum current` `Real-time clock synchronization`
 - `Remote controllable relay` `Programmable sampling rate`
 - `Communication authentication` `True RMS voltage measurement` 
 - `Active energy calculation` `Instantaneous current measurement`
+
+<br />
+<br />
+
+## Analytics
+Switch Administrative Intelligence Dashboard (Switch-AID) combines `#IoT` technology with Machine Learning `#ML` capabilities to enable a fully automated energy management system. It is able to detect anomalies, system failures, power theft, overload conditions, and tampering; providing a user friendly platform for monitoring and management
+![Dashboard](https://github.com/WhyNotSwitch/Gallery/blob/main/analytics/Switch-Dashboard.png?raw=true)
+<br />
+- `Remote Asset Administration` `Theft Detection` `Reporting` 
+- `Performance Benchmark` `Diagnostic` `Predictive Maintenance`
+- `Anomaly Detection` `Energy Loss Detection` `Smart Alerts`
