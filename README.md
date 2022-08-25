@@ -24,3 +24,7 @@ We develop smart metering technologies for solar power projects and believe that
 - `Remote Asset Administration` `Theft Detection` `Reporting` 
 - `Performance Benchmark` `Diagnostic` `Predictive Maintenance`
 - `Anomaly Detection` `Energy Loss Detection` `Smart Alerts`
+- `100A maximum current` `Real-time clock synchronization`
+- `Remote controllable relay` `Programmable sampling rate`
+- `Communication authentication` `True RMS voltage measurement` 
+- `Active energy calculation` `Instantaneous current measurement`
