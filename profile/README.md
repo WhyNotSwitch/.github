@@ -1,5 +1,12 @@
 # Switch Electric Ltd
-`#renewables` `#solar` `#smartmeter` `#IoT` `#blockchain`
+
+`@whynotswitch` `#solar` `#electricity` `#smartmeter` `#IoT` `#blockchain`
+<br />
+[Website](https://www.whynotswitch.com/) || [LinkedIn](https://www.linkedin.com/company/whynotswitch/) ||
+[Twitter](https://twitter.com/WhyNotSwitch/) || [Medium](https://medium.com/@hello.whynotswitch/) || 
+[Instagram](https://www.instagram.com/whynotswitch/) || [Crunchbase](https://www.crunchbase.com/organization/whynotswitch) ||
+[Google](https://g.page/r/Ce7qNgSqnKOvEBI/)
+
 
 ![Banner](https://github.com/WhyNotSwitch/Brand-kit/blob/main/SWITCH%20LinkedIn%20Banner.png?raw=true) 
 
@@ -17,7 +24,7 @@
 
 
 
-### Metering
+## Metering
 
 ![Meter](https://github.com/WhyNotSwitch/Switch-Website-3.0/blob/master/img/Switch-meters/IMG_3002.jpg?raw=true) 
 We develop smart metering technologies for solar power projects and believe that smart metering can play a pivotal role in Africa's electric future.
