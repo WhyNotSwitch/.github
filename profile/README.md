@@ -29,7 +29,7 @@ Our meters collect and aggregate over 3,600 data points per minute, Switch's Sma
 and power theft more efficiently than any other meter on the market. They can provide detailed data about the energy usage in your customer's
 homes. This information would allow you to better tailor your power plans based on actual usage patterns
 <br />
-![Meter](https://github.com/WhyNotSwitch/Gallery/blob/main/maxwell-1.0/IMG_3003-removebg-preview.png?raw=true)
+![Meter](https://github.com/WhyNotSwitch/Gallery/blob/main/maxwell-1.0/exterior/new2-crop-removebg-preview.png?raw=true)
 - `100A maximum current` `Real-time clock synchronization`
 - `Remote controllable relay` `Programmable sampling rate`
 - `Communication authentication` `True RMS voltage measurement` 
